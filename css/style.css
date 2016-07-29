@@ -1,0 +1,114 @@
+
+.inhalt {
+    margin-top: 80px;
+}
+
+.profilbild_image {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+.Bereich1 {
+    height: 40px;
+    border: none;
+}
+
+.Balken1 {
+    height: 10px;
+}
+
+.Balken2 {
+    height: 20px;
+}
+
+.Hintergrund {
+    height: 6000px;
+    background-image: url(file:///C:/Users/Mandl/Desktop/Hompage/Hausaufgabe/Arbeitsentwurf/images/Kant2.jpg);
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: azure;
+}
+
+
+
+section {
+    background-color:beige;
+}
+
+footer {
+    background-color: cadetblue;
+}
+
+
+
+
+
+.Hintergrundbild {
+    background-color: 0;
+}
+
+
+
+
+
+.Anton {
+    height: 50px;
+    background-color: antiquewhite;
+}
+
+.Berta {
+    height: 50px;
+    background-color: bisque;
+}
+
+.Cesar {
+    height: 50px;
+    background-color: burlywood;
+}
+
+.Dora {
+    height: 50px;
+    background-color: cadetblue;
+}
+
+#Event1 {
+    height: 50px;
+}
+
+#Event2 {
+    height: auto;
+}
+
+#Event3 {
+    height: auto;
+}
+
+#Event4 {
+    background-color:cadetblue;
+    height: auto;
+}
+
+#Event5 {
+    background-color:#ec3b3b;
+    height: auto; 
+}
+
+.artikelbild {
+}
+
+.artikelbild2a {
+    width: 400px;
+    height: auto;
+}
+
+#Event0 {
+    height: 70px;
+}
+
+.Bereich2 {
+    height: 20px;
+}
